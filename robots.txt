@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chatcms.2828.ru/sitemap.xml
